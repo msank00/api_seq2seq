@@ -1,0 +1,10 @@
+98_temp/*.pptx
+99_testdir/*.log
+
+
+01_model/
+02_output/
+03_log/
+
+__pycache__/
+

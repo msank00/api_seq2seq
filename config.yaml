@@ -1,0 +1,12 @@
+---
+directory:
+  data: 00_data
+  model: 01_model
+  output: 02_output
+  log: 03_log
+
+api:
+  predict:
+    ip: 127.0.0.1
+    port: 5000
+...
